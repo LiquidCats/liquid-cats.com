@@ -44,7 +44,7 @@ useHead({
          </div>
          <div>
            <strong>Request</strong>
-           <pre class="bg-gray-100 block rounded-xs p-3 truncate">GET https://liquid-cats.com/api/rater/v1/rate/{pair}</pre>
+           <pre class="bg-gray-100 block rounded-xs p-3 truncate">GET https://rater.liquid-cats.com/api/v1/rate/{pair}</pre>
          </div>
 
          <div>
